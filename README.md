@@ -46,11 +46,6 @@ Used Wireshark Conversations to examine different hosts and ports.
 ### 8. TCP Stream Analysis
 Followed TCP streams to understand the complete communication between endpoints.
 
-## Project Structure
-
--'PCAP/' - Packet capture files
--'Screenshots/' - Analysis screenshots
--'Report/' - Detailed project report
 
 ## Key Learning
 
